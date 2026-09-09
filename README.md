@@ -27,6 +27,9 @@ shouldWakeUp (true, 8); => false dönmeli.(8'den sonra ise tepki vermeliyiz.)
 shouldWakeUp (true, -1); => false dönmeli(-1 geçersiz değer)
 
 
+
+
+
 ### Yaş Tespiti
 
 * ```hasTeen``` isimli 3 tane parametre alan bir metod yazmak istiyoruz.
